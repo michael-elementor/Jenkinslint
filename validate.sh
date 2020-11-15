@@ -1,3 +1,6 @@
+#!/bin/bash
+
+set -e
 #
 JENKINS_URL=http://localhost:8081
 
