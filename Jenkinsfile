@@ -2,7 +2,6 @@
 pipeline {
     agent any
 sdffsf
-adadf
 adsadsf
 sdds
     stages {

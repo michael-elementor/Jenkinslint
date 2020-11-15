@@ -7,4 +7,4 @@ push:
 	docker push levmichael3/jenkins-lint:1.0
 
 test:
-	pre-commit try-repo . docker-jenkinslint --verbose --files Jenkinsfile
+	pre-commit try-repo . validate --verbose --files Jenkinsfile
