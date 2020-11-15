@@ -1,0 +1,7 @@
+---
+- id: validate
+  name: Lint Jenkinsfile
+  description: Validates Jenkinsfiles using a Jenkins server
+  entry: validate
+  language: script
+  files: ^Jenkinsfile
