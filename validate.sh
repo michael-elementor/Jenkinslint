@@ -22,7 +22,7 @@ JENKINS_URL=http://localhost:8081
 
 JENKINS_FILE=${1}
 if [ ! -f "${JENKINS_FILE}" ]; then
-  echo "Could not find file ${JENKINS_FILE}"
+  echo "Could not find file []${JENKINS_FILE}]"
   exit 1
 else
 echo "Validating ${JENKINS_FILE}"
