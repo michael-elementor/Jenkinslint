@@ -4,4 +4,4 @@
   description: Validates Jenkinsfiles using a Jenkins server
   entry: validate.sh
   language: script
-  files: ^Jenkinsfile
+  files: \.Jenkinsfile$
