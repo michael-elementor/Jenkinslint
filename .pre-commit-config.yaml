@@ -1,0 +1,7 @@
+-   repo: https://github.com/levmichael3/Jenkinslint
+    rev: master
+    hooks:
+    -   id: docker-jenkinslint
+        language: docker_image
+        entry: --entrypoint /usr/local/bin/run-jflint.sh jenkinslint:0.0.4
+        files: Jenkinsfile

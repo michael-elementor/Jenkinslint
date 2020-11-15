@@ -1,0 +1,5 @@
+-   id: docker-jenkinslint
+    name: jenkinslint (via docker_image)
+    description: jenkinslint, but provided by docker
+    entry: --entrypoint /usr/local/bin/run-jflint.sh jenkinslint:0.0.4
+    language: docker_image
