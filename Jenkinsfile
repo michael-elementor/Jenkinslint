@@ -1,6 +1,8 @@
 //sample Jenkinsfile used for testing of this pre-commit hook
 pipeline {
     agent any
+sdsdsd\
+
 sdffsf
 adsadsf
 sdds
