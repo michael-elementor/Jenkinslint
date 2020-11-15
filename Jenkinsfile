@@ -2,7 +2,6 @@
 pipeline {
     agent any
 
-asd
 vdsvasd
 asd
 
