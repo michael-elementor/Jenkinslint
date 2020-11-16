@@ -1,9 +1,11 @@
 //sample Jenkinsfile used for testing of this pre-commit hook
+/*
+I AM A BAD JENKINSFILE
+*/
 pipeline {
     agent any
 
 vdsvasd
-aSD
 asd
 DDDDD
 sdffsf
