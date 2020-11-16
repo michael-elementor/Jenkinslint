@@ -1,7 +1,7 @@
 ---
 repos:
   - repo: https://github.com/michael-elementor/Jenkinslint
-    rev: v0.1.1
+    rev: v0.1.2
     hooks:
       - id: validate
   - repo: https://github.com/pryorda/dockerfilelint-precommit-hooks
