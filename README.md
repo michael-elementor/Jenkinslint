@@ -13,6 +13,10 @@ This code provides a [pre-commit](http://pre-commit.com) hook package to detect 
 ## How to setup Jenkinslint?
 
 - Run the `docker-compose up -d` command to make sure the jenkins local container will run and the Jenkinslint can run verifications against
+(in TBD: Add all needed "Pipeline" plugins automated installations.)
+
+
+
 
 ## How would I use this repository with pre-commit?
 
